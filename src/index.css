@@ -1,0 +1,17 @@
+body {
+  padding: 20px;
+}
+
+.filter-com {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.search-form {
+  width: 30vw;
+}
+
+.filter-dropdown {
+  width: 15vw;
+}
